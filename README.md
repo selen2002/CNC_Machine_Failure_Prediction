@@ -1,5 +1,4 @@
 #  Predictive Maintenance: CNC Machine Failure Detection
-*(Türkçe açıklama aşağıdadır 👇)*
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
