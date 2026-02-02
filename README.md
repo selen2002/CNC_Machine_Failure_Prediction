@@ -4,7 +4,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-## 🇬🇧 Project Overview
+##  Project Overview
 This project focuses on **Predictive Maintenance** for CNC machines using a dataset of 10,000 records. The goal is to predict machine failures *before* they happen by analyzing sensor data (Temperature, Torque, Rotational Speed, etc.).
 
 Moving from "Reactive Maintenance" (fix when broken) to **"Proactive Maintenance"** allows factories to reduce downtime and save costs.
