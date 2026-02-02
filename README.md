@@ -1,12 +1,11 @@
 #  Predictive Maintenance: CNC Machine Failure Detection
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Library-Scikit_Learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Technique](https://img.shields.io/badge/Technique-SMOTE-purple?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Library-Scikit_Learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Library-Seaborn-7798B7?style=for-the-badge&logo=seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Imbalanced-Learn](https://img.shields.io/badge/Library-Imbalanced_Learn-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ##  Project Overview
