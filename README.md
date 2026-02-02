@@ -33,7 +33,7 @@ Moving from "Reactive Maintenance" to allows factories to reduce downtime and sa
 ###  Model Results
 The **Random Forest Classifier** achieved the best overall performance.
 
-| Model | Accuracy | Recall (Failure Detection) | F1-Score (Class 1) | Verdict |
+| Model | Accuracy | Recall  | F1-Score | Verdict |
 | :--- | :--- | :--- | :--- | :--- |
 | **Logistic Regression (Base)** | 97.4% | ~30% | Low |  Missed most failures |
 | **Logistic Regression (SMOTE)** | 80.0% | 79% | Moderate |  Good detection, lower precision |
@@ -53,6 +53,11 @@ The model successfully identifies the majority of machine failures while keeping
 According to the Random Forest analysis, **Torque** and **Rotational Speed** are the most critical indicators of a potential failure.
 
 ![Feature Importance](...)
+
+#### 3. Model Performance (ROC Curve)
+The model shows excellent discrimination with an AUC score of 0.95.
+
+![ROC Curve](...)
 
 ---
 ---
