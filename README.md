@@ -11,7 +11,7 @@
 ##  Project Overview
 This project focuses on **Predictive Maintenance** for CNC machines using a dataset of 10,000 records. The goal is to predict machine failures *before* they happen by analyzing sensor data (Temperature, Torque, Rotational Speed, etc.).
 
-Moving from "Reactive Maintenance" (fix when broken) to **"Proactive Maintenance"** allows factories to reduce downtime and save costs.
+Moving from "Reactive Maintenance" to allows factories to reduce downtime and save costs.
 
 ---
 
