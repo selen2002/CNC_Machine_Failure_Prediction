@@ -47,17 +47,17 @@ The **Random Forest Classifier** achieved the best overall performance.
 #### 1. Confusion Matrix (Random Forest)
 The model successfully identifies the majority of machine failures while keeping false alarms low.
 
-![Confusion Matrix](...)
+![Confusion Matrix](https://github.com/selen2002/CNC_Machine_Failure_Prediction/blob/main/Plots/Final_CM_English.png)
 
 #### 2. Feature Importance
 According to the Random Forest analysis, **Torque** and **Rotational Speed** are the most critical indicators of a potential failure.
 
-![Feature Importance](...)
+![Feature Importance](https://github.com/selen2002/CNC_Machine_Failure_Prediction/blob/main/Plots/Feature_Importance.png)
 
 #### 3. Model Performance (ROC Curve)
 The model shows excellent discrimination with an AUC score of 0.95.
 
-![ROC Curve](...)
+![ROC Curve](https://github.com/selen2002/CNC_Machine_Failure_Prediction/blob/main/Plots/ROC_Curve.png)
 
 ---
 ---
